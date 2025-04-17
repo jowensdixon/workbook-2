@@ -19,7 +19,7 @@ public class CellPhoneApplication {
         }
 
         // Getter and Setter for serialNumber
-        public int getSerialNumber() {
+        int getSerialNumber; {
             return serialNumber;
         }
 
@@ -62,7 +62,7 @@ public class CellPhoneApplication {
         public void setOwner(String owner) {
             this.owner = owner;
 
-            
+
 
 
     }
